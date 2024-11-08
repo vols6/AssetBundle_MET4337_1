@@ -1,0 +1,9 @@
+{
+    "bundles": [
+      {
+        "name": "model",
+        "version": "1.0",
+        "url": "https://raw.githubusercontent.com/vols6/AssetBundle_MET4337_1/main/AssetBundles/mybundle"
+      }
+    ]
+  }
